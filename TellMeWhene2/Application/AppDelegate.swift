@@ -14,6 +14,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        UITabBar.appearance().unselectedItemTintColor = .black
+        UITabBar.appearance().tintColor = .white
+        UITabBar.appearance().backgroundColor = .gray
+        
+        
+        
+        UINavigationBar.appearance().backgroundColor = .gray
+//        UINavigationBar.appearance().shadowImage( UIColor.black.cgColor)
+//        UINavigationBar.layer.shadowRadius = 4.0
+//        UINavigationBar.layer.shadowOpacity = 0.6
+//        UINavigationBar.layer.shadowOffset = CGSize.zero
+//
         return true
     }
 
