@@ -46,3 +46,4 @@ class MainTabBarController: UITabBarController {
 
 }
 
+// CODE 5 - FIX bugs 1
