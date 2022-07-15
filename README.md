@@ -2,5 +2,5 @@
 Hello 
 It is study project 1 
 
-Displays nites on the calendar 
+Displays notes on the calendar 
 
