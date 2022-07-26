@@ -1,0 +1,6 @@
+framework module Pods_TellMeWhene2_TellMeWhene2UITests {
+  umbrella header "Pods-TellMeWhene2-TellMeWhene2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
